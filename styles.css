@@ -1,0 +1,20 @@
+.Navbar {
+    display: flex;
+    justify-content: space-evenly;
+    border: 10px double;
+}
+.Brown{
+    height: 350px;
+}
+.beige{
+    height: 350px;
+}
+.black{
+    height: 350px;
+}
+.white{
+    height: 350px;
+}
+.all three{
+    height: 350px;
+}
